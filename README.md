@@ -1,2 +1,2 @@
-# KTM-Wallpaper-
+# KTM-Wallpaper
 KTM Wallpaper App
